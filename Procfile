@@ -1,0 +1,1 @@
+web: gunicorn numpre_app:app
